@@ -1,14 +1,28 @@
-# App Creation
+# Author **Thomas Kent**
 
-created app with following command
+# Overview
 
-**npm create vite@latest GiphySearch -- --template react**
+Provides a search functionality for Giphy.com
 
-# Pre-coding Prep
+Links directly to the desired images on that site
 
-collected user stories
+# Instructions
 
-added Giphy API key in Vite environment file
+Type in a search parameter and click the button
+to recive a list of images.
+Click the images to go to Giphy and download.
 
-wireframe built using Draw.io and exported to PNG format
+# Technologies used in this project
+
+- HTML
+- CSS
+- JavaScript
+- JSX
+- React
+- Vite
+- REST
+
+# ToDo Items
+
+- Provide additional search items when the user scrolls to the end of the list
 
