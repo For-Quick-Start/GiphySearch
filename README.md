@@ -1,4 +1,6 @@
-# Author **Thomas Kent**
+# Author
+
+Thomas Kent**
 
 # Overview
 
