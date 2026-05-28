@@ -1,6 +1,6 @@
 # Author
 
-Thomas Kent**
+Thomas Kent
 
 # Overview
 
